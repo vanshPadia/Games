@@ -91,6 +91,56 @@ app.post("/api/tournament-state/reset", (req, res) => {
   saveStateToDisk(tournamentState);
   res.json({ success: true, state: tournamentState });
 });
+var cameras = {};
+var signalQueue = [];
+app.post("/api/stream/register-camera", (req, res) => {
+  const { id, name } = req.body;
+  if (!id) return res.status(400).json({ error: "Missing camera ID" });
+  cameras[id] = {
+    id,
+    name: name || `Camera ${id.substring(0, 4)}`,
+    lastSeen: Date.now()
+  };
+  const now = Date.now();
+  Object.keys(cameras).forEach((camId) => {
+    if (now - cameras[camId].lastSeen > 1e4) {
+      delete cameras[camId];
+    }
+  });
+  res.json({ success: true, cameras: Object.values(cameras) });
+});
+app.get("/api/stream/active-cameras", (req, res) => {
+  const now = Date.now();
+  Object.keys(cameras).forEach((camId) => {
+    if (now - cameras[camId].lastSeen > 1e4) {
+      delete cameras[camId];
+    }
+  });
+  res.json(Object.values(cameras));
+});
+app.post("/api/stream/signal", (req, res) => {
+  const { to, from, type, payload } = req.body;
+  if (!to || !from || !type || !payload) {
+    return res.status(400).json({ error: "Missing signaling properties" });
+  }
+  signalQueue.push({
+    to,
+    from,
+    type,
+    payload,
+    timestamp: Date.now()
+  });
+  if (signalQueue.length > 500) {
+    signalQueue = signalQueue.slice(-100);
+  }
+  res.json({ success: true });
+});
+app.get("/api/stream/signals/:clientId", (req, res) => {
+  const { clientId } = req.params;
+  const clientSignals = signalQueue.filter((s) => s.to === clientId);
+  signalQueue = signalQueue.filter((s) => s.to !== clientId);
+  res.json(clientSignals);
+});
 async function initializeServer() {
   if (process.env.NODE_ENV !== "production") {
     const vite = await (0, import_vite.createServer)({
