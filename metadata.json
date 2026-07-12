@@ -1,0 +1,6 @@
+{
+  "name": "Table Tennis Tournament Manager",
+  "description": "A comprehensive table tennis tournament manager featuring a single-table match queue, traditional 21-point custom scoring, first mis-serve warnings, live standings, and an interactive knockout bracket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

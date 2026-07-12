@@ -1,0 +1,2869 @@
+{
+  "players": [
+    {
+      "id": "player_1782897678006",
+      "name": "Ritik",
+      "wins": 2,
+      "losses": 0,
+      "milestones": 2,
+      "matchWins": 2,
+      "bonuses": 2,
+      "totalPoints": 8,
+      "pointsFor": 42,
+      "pointsAgainst": 21
+    },
+    {
+      "id": "player_1782382196162",
+      "name": "Anmol",
+      "wins": 2,
+      "losses": 0,
+      "milestones": 1,
+      "matchWins": 2,
+      "bonuses": 1,
+      "totalPoints": 6,
+      "pointsFor": 42,
+      "pointsAgainst": 36
+    },
+    {
+      "id": "player_1782377083081",
+      "name": "Ravi",
+      "wins": 1,
+      "losses": 0,
+      "milestones": 1,
+      "matchWins": 1,
+      "bonuses": 1,
+      "totalPoints": 4,
+      "pointsFor": 21,
+      "pointsAgainst": 13
+    },
+    {
+      "id": "player_1782897629633",
+      "name": "Dheeraj",
+      "wins": 1,
+      "losses": 1,
+      "milestones": 1,
+      "matchWins": 1,
+      "bonuses": 1,
+      "totalPoints": 4,
+      "pointsFor": 31,
+      "pointsAgainst": 28
+    },
+    {
+      "id": "player_1782377074618",
+      "name": "Vansh",
+      "wins": 1,
+      "losses": 1,
+      "milestones": 1,
+      "matchWins": 1,
+      "bonuses": 0,
+      "totalPoints": 3,
+      "pointsFor": 40,
+      "pointsAgainst": 40
+    },
+    {
+      "id": "player_1782377078453",
+      "name": "Ankit",
+      "wins": 0,
+      "losses": 1,
+      "milestones": 1,
+      "matchWins": 0,
+      "bonuses": 0,
+      "totalPoints": 1,
+      "pointsFor": 19,
+      "pointsAgainst": 21
+    },
+    {
+      "id": "player_1782382200233",
+      "name": "Vikash",
+      "wins": 0,
+      "losses": 1,
+      "milestones": 0,
+      "matchWins": 0,
+      "bonuses": 0,
+      "totalPoints": 0,
+      "pointsFor": 17,
+      "pointsAgainst": 21
+    },
+    {
+      "id": "player_1782377096996",
+      "name": "Omar",
+      "wins": 0,
+      "losses": 1,
+      "milestones": 0,
+      "matchWins": 0,
+      "bonuses": 0,
+      "totalPoints": 0,
+      "pointsFor": 13,
+      "pointsAgainst": 21
+    },
+    {
+      "id": "player_1782382204433",
+      "name": "Vinyanand",
+      "wins": 0,
+      "losses": 2,
+      "milestones": 0,
+      "matchWins": 0,
+      "bonuses": 0,
+      "totalPoints": 0,
+      "pointsFor": 18,
+      "pointsAgainst": 42
+    }
+  ],
+  "matches": [
+    {
+      "id": "prog_r1_0_1782377111824",
+      "player1Id": "player_1782377078453",
+      "player2Id": "player_1782377074618",
+      "player1Name": "Ankit",
+      "player2Name": "Vansh",
+      "status": "completed",
+      "round": 1,
+      "type": "progressive-r1",
+      "score1": 19,
+      "score2": 21,
+      "firstTo10Id": "player_1782377078453",
+      "winnerId": "player_1782377074618",
+      "pointsAwarded1": 1,
+      "pointsAwarded2": 2,
+      "hasGraceRuleBeenUsed": false,
+      "p1GraceRuleUsed": false,
+      "p2GraceRuleUsed": false,
+      "timerSeconds": 437,
+      "server": "player1",
+      "serveCount": 0,
+      "logs": [
+        {
+          "timestamp": "14:15:11",
+          "type": "system",
+          "message": "Round 1 Progressive Match: Ankit vs Vansh",
+          "scoreState": {
+            "score1": 0,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:27:20",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 0,
+            "score2": 1
+          }
+        },
+        {
+          "timestamp": "14:27:28",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 0,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:27:37",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 1,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:27:40",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 2,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:27:55",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 3,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:28:01",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 4,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:28:16",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 4,
+            "score2": 3
+          }
+        },
+        {
+          "timestamp": "14:28:26",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 5,
+            "score2": 3
+          }
+        },
+        {
+          "timestamp": "14:28:38",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 6,
+            "score2": 3
+          }
+        },
+        {
+          "timestamp": "14:28:47",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 6,
+            "score2": 4
+          }
+        },
+        {
+          "timestamp": "14:28:53",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 7,
+            "score2": 4
+          }
+        },
+        {
+          "timestamp": "14:29:05",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 8,
+            "score2": 4
+          }
+        },
+        {
+          "timestamp": "14:29:12",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 8,
+            "score2": 5
+          }
+        },
+        {
+          "timestamp": "14:29:25",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 8,
+            "score2": 6
+          }
+        },
+        {
+          "timestamp": "14:29:29",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 9,
+            "score2": 6
+          }
+        },
+        {
+          "timestamp": "14:30:06",
+          "type": "point_p1",
+          "message": "Subtracted point from Ankit",
+          "scoreState": {
+            "score1": 8,
+            "score2": 6
+          }
+        },
+        {
+          "timestamp": "14:30:15",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 8,
+            "score2": 7
+          }
+        },
+        {
+          "timestamp": "14:30:24",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 9,
+            "score2": 7
+          }
+        },
+        {
+          "timestamp": "14:30:43",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 10,
+            "score2": 7
+          }
+        },
+        {
+          "timestamp": "14:30:43",
+          "type": "milestone",
+          "message": "🏆 Milestone achieved: Ankit is the first to reach 10 points (+1 Match Point)",
+          "scoreState": {
+            "score1": 10,
+            "score2": 7
+          }
+        },
+        {
+          "timestamp": "14:30:52",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 10,
+            "score2": 8
+          }
+        },
+        {
+          "timestamp": "14:31:00",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 11,
+            "score2": 8
+          }
+        },
+        {
+          "timestamp": "14:31:05",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 12,
+            "score2": 8
+          }
+        },
+        {
+          "timestamp": "14:31:11",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 13,
+            "score2": 8
+          }
+        },
+        {
+          "timestamp": "14:31:34",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 13,
+            "score2": 9
+          }
+        },
+        {
+          "timestamp": "14:31:50",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 14,
+            "score2": 9
+          }
+        },
+        {
+          "timestamp": "14:31:55",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 14,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:32:03",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 15,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:32:14",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 15,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:32:19",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 15,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:32:44",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 15,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:32:49",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 15,
+            "score2": 14
+          }
+        },
+        {
+          "timestamp": "14:32:56",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 16,
+            "score2": 14
+          }
+        },
+        {
+          "timestamp": "14:33:08",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 17,
+            "score2": 14
+          }
+        },
+        {
+          "timestamp": "14:33:13",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 17,
+            "score2": 15
+          }
+        },
+        {
+          "timestamp": "14:33:19",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 18,
+            "score2": 15
+          }
+        },
+        {
+          "timestamp": "14:33:23",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 18,
+            "score2": 16
+          }
+        },
+        {
+          "timestamp": "14:33:37",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 18,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:33:50",
+          "type": "point_p1",
+          "message": "🏓 Point to Ankit",
+          "scoreState": {
+            "score1": 19,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:33:57",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 19,
+            "score2": 18
+          }
+        },
+        {
+          "timestamp": "14:34:00",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 19,
+            "score2": 19
+          }
+        },
+        {
+          "timestamp": "14:34:08",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 19,
+            "score2": 20
+          }
+        },
+        {
+          "timestamp": "14:34:15",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 19,
+            "score2": 21
+          }
+        },
+        {
+          "timestamp": "14:34:15",
+          "type": "win",
+          "message": "🎉 Match completed! Vansh wins the match (19 - 21)",
+          "scoreState": {
+            "score1": 19,
+            "score2": 21
+          }
+        }
+      ]
+    },
+    {
+      "id": "prog_r1_2_1782377111824",
+      "player1Id": "player_1782377096996",
+      "player2Id": "player_1782377083081",
+      "player1Name": "Omar",
+      "player2Name": "Ravi",
+      "status": "completed",
+      "round": 1,
+      "type": "progressive-r1",
+      "score1": 13,
+      "score2": 21,
+      "firstTo10Id": "player_1782377083081",
+      "winnerId": "player_1782377083081",
+      "pointsAwarded1": 0,
+      "pointsAwarded2": 4,
+      "hasGraceRuleBeenUsed": true,
+      "p1GraceRuleUsed": true,
+      "p2GraceRuleUsed": false,
+      "timerSeconds": 453,
+      "server": "player1",
+      "serveCount": 0,
+      "logs": [
+        {
+          "timestamp": "14:15:11",
+          "type": "system",
+          "message": "Round 1 Progressive Match: Omar vs Ravi",
+          "scoreState": {
+            "score1": 0,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:17:08",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 1,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:17:11",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 1,
+            "score2": 1
+          }
+        },
+        {
+          "timestamp": "14:17:19",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 1,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:17:35",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 1,
+            "score2": 3
+          }
+        },
+        {
+          "timestamp": "14:17:51",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 1,
+            "score2": 4
+          }
+        },
+        {
+          "timestamp": "14:17:58",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 1,
+            "score2": 5
+          }
+        },
+        {
+          "timestamp": "14:18:07",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 2,
+            "score2": 5
+          }
+        },
+        {
+          "timestamp": "14:18:16",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 2,
+            "score2": 6
+          }
+        },
+        {
+          "timestamp": "14:18:25",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 3,
+            "score2": 6
+          }
+        },
+        {
+          "timestamp": "14:18:32",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 3,
+            "score2": 7
+          }
+        },
+        {
+          "timestamp": "14:18:46",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 4,
+            "score2": 7
+          }
+        },
+        {
+          "timestamp": "14:18:59",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 4,
+            "score2": 8
+          }
+        },
+        {
+          "timestamp": "14:19:06",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 4,
+            "score2": 9
+          }
+        },
+        {
+          "timestamp": "14:19:10",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 5,
+            "score2": 9
+          }
+        },
+        {
+          "timestamp": "14:19:22",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 5,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:19:22",
+          "type": "milestone",
+          "message": "🏆 Milestone achieved: Ravi is the first to reach 10 points (+1 Match Point)",
+          "scoreState": {
+            "score1": 5,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:19:39",
+          "type": "point_p2",
+          "message": "Subtracted point from Ravi",
+          "scoreState": {
+            "score1": 5,
+            "score2": 9
+          }
+        },
+        {
+          "timestamp": "14:19:41",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 6,
+            "score2": 9
+          }
+        },
+        {
+          "timestamp": "14:19:48",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 6,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:19:57",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 6,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:20:12",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 7,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:20:20",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 7,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:20:32",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 8,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:20:53",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 8,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:20:55",
+          "type": "point_p2",
+          "message": "Subtracted point from Ravi",
+          "scoreState": {
+            "score1": 8,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:20:56",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 9,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:21:00",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 10,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:21:17",
+          "type": "fault_grace_p1",
+          "message": "⚠️ Service Fault by Omar. Player's FIRST MIS-SERVE WARNING: No point awarded to opponent.",
+          "scoreState": {
+            "score1": 10,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:21:51",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 11,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:22:03",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 11,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:22:17",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 12,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:22:19",
+          "type": "point_p1",
+          "message": "Subtracted point from Omar",
+          "scoreState": {
+            "score1": 11,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:22:19",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 11,
+            "score2": 14
+          }
+        },
+        {
+          "timestamp": "14:22:36",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 11,
+            "score2": 15
+          }
+        },
+        {
+          "timestamp": "14:22:40",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 11,
+            "score2": 16
+          }
+        },
+        {
+          "timestamp": "14:22:48",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 11,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:22:55",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 11,
+            "score2": 18
+          }
+        },
+        {
+          "timestamp": "14:23:52",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 12,
+            "score2": 18
+          }
+        },
+        {
+          "timestamp": "14:23:58",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 12,
+            "score2": 19
+          }
+        },
+        {
+          "timestamp": "14:24:21",
+          "type": "point_p1",
+          "message": "🏓 Point to Omar",
+          "scoreState": {
+            "score1": 13,
+            "score2": 19
+          }
+        },
+        {
+          "timestamp": "14:24:31",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 13,
+            "score2": 20
+          }
+        },
+        {
+          "timestamp": "14:24:39",
+          "type": "point_p2",
+          "message": "🏓 Point to Ravi",
+          "scoreState": {
+            "score1": 13,
+            "score2": 21
+          }
+        },
+        {
+          "timestamp": "14:24:39",
+          "type": "win",
+          "message": "🎉 Match completed! Ravi wins the match (13 - 21)",
+          "scoreState": {
+            "score1": 13,
+            "score2": 21
+          }
+        }
+      ]
+    },
+    {
+      "id": "custom_match_1782382224695_x59ys",
+      "player1Id": "player_1782382196162",
+      "player2Id": "player_1782382200233",
+      "player1Name": "Anmol",
+      "player2Name": "Vikash",
+      "status": "completed",
+      "round": 1,
+      "type": "round-robin",
+      "score1": 21,
+      "score2": 17,
+      "firstTo10Id": "player_1782382196162",
+      "winnerId": "player_1782382196162",
+      "pointsAwarded1": 4,
+      "pointsAwarded2": 0,
+      "hasGraceRuleBeenUsed": false,
+      "p1GraceRuleUsed": false,
+      "p2GraceRuleUsed": false,
+      "timerSeconds": 1,
+      "server": "player1",
+      "serveCount": 0,
+      "logs": [
+        {
+          "timestamp": "15:40:24",
+          "type": "system",
+          "message": "Scheduled match on Day 1: Anmol vs Vikash",
+          "scoreState": {
+            "score1": 0,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:51:55",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 1,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:51:55",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 2,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:51:56",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 3,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:51:56",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 4,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:51:56",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 5,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:51:56",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 6,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:51:56",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 7,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:51:57",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 8,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:51:57",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 9,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:51:58",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 10,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:51:58",
+          "type": "milestone",
+          "message": "🏆 Milestone achieved: Anmol is the first to reach 10 points (+1 Match Point)",
+          "scoreState": {
+            "score1": 10,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:51:59",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 1
+          }
+        },
+        {
+          "timestamp": "14:51:59",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:52:00",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 3
+          }
+        },
+        {
+          "timestamp": "14:52:00",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 4
+          }
+        },
+        {
+          "timestamp": "14:52:00",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 5
+          }
+        },
+        {
+          "timestamp": "14:52:00",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 6
+          }
+        },
+        {
+          "timestamp": "14:52:00",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 7
+          }
+        },
+        {
+          "timestamp": "14:52:01",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 8
+          }
+        },
+        {
+          "timestamp": "14:52:01",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 9
+          }
+        },
+        {
+          "timestamp": "14:52:01",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:52:02",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:52:03",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:52:04",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:52:04",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 14
+          }
+        },
+        {
+          "timestamp": "14:52:05",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 15
+          }
+        },
+        {
+          "timestamp": "14:52:06",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 16
+          }
+        },
+        {
+          "timestamp": "14:52:09",
+          "type": "point_p2",
+          "message": "🏓 Point to Vikash",
+          "scoreState": {
+            "score1": 10,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:52:11",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 11,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:52:11",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 12,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:52:11",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 13,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:52:12",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 14,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:52:12",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 15,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:52:13",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 16,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:52:13",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 17,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:52:14",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 18,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:52:15",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 19,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:52:16",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 20,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:52:16",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 21,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:52:16",
+          "type": "win",
+          "message": "🎉 Match completed! Anmol wins the match (21 - 17)",
+          "scoreState": {
+            "score1": 21,
+            "score2": 17
+          }
+        }
+      ]
+    },
+    {
+      "id": "custom_match_1782897688509_7ewvi",
+      "player1Id": "player_1782897678006",
+      "player2Id": "player_1782382204433",
+      "player1Name": "Ritik",
+      "player2Name": "Vinyanand",
+      "status": "completed",
+      "round": 1,
+      "type": "round-robin",
+      "score1": 21,
+      "score2": 11,
+      "firstTo10Id": "player_1782897678006",
+      "winnerId": "player_1782897678006",
+      "pointsAwarded1": 4,
+      "pointsAwarded2": 0,
+      "hasGraceRuleBeenUsed": false,
+      "p1GraceRuleUsed": false,
+      "p2GraceRuleUsed": false,
+      "timerSeconds": 1,
+      "server": "player1",
+      "serveCount": 0,
+      "logs": [
+        {
+          "timestamp": "14:51:28",
+          "type": "system",
+          "message": "Scheduled match on Day 1: Ritik vs Vinyanand",
+          "scoreState": {
+            "score1": 0,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:24",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 1,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:25",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 2,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:25",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 3,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:25",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 4,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:25",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 5,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:26",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 6,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:26",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 7,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:26",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 8,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:26",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 9,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:27",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 10,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:27",
+          "type": "milestone",
+          "message": "🏆 Milestone achieved: Ritik is the first to reach 10 points (+1 Match Point)",
+          "scoreState": {
+            "score1": 10,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:28",
+          "type": "point_p2",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 10,
+            "score2": 1
+          }
+        },
+        {
+          "timestamp": "14:52:29",
+          "type": "point_p2",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 10,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:52:29",
+          "type": "point_p2",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 10,
+            "score2": 3
+          }
+        },
+        {
+          "timestamp": "14:52:29",
+          "type": "point_p2",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 10,
+            "score2": 4
+          }
+        },
+        {
+          "timestamp": "14:52:30",
+          "type": "point_p2",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 10,
+            "score2": 5
+          }
+        },
+        {
+          "timestamp": "14:52:30",
+          "type": "point_p2",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 10,
+            "score2": 6
+          }
+        },
+        {
+          "timestamp": "14:52:30",
+          "type": "point_p2",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 10,
+            "score2": 7
+          }
+        },
+        {
+          "timestamp": "14:52:31",
+          "type": "point_p2",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 10,
+            "score2": 8
+          }
+        },
+        {
+          "timestamp": "14:52:32",
+          "type": "point_p2",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 10,
+            "score2": 9
+          }
+        },
+        {
+          "timestamp": "14:52:32",
+          "type": "point_p2",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 10,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:52:33",
+          "type": "point_p2",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 10,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:52:35",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 11,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:52:35",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 12,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:52:36",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 13,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:52:36",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 14,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:52:36",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 15,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:52:36",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 16,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:52:37",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 17,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:52:37",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 18,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:52:37",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 19,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:52:37",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 20,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:52:37",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 21,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:52:37",
+          "type": "win",
+          "message": "🎉 Match completed! Ritik wins the match (21 - 11)",
+          "scoreState": {
+            "score1": 21,
+            "score2": 11
+          }
+        }
+      ]
+    },
+    {
+      "id": "custom_match_1782897697346_jiv39",
+      "player1Id": "player_1782897678006",
+      "player2Id": "player_1782897629633",
+      "player1Name": "Ritik",
+      "player2Name": "Dheeraj",
+      "status": "completed",
+      "round": 1,
+      "type": "round-robin",
+      "score1": 21,
+      "score2": 10,
+      "firstTo10Id": "player_1782897678006",
+      "winnerId": "player_1782897678006",
+      "pointsAwarded1": 4,
+      "pointsAwarded2": 0,
+      "hasGraceRuleBeenUsed": false,
+      "p1GraceRuleUsed": false,
+      "p2GraceRuleUsed": false,
+      "timerSeconds": 11,
+      "server": "player1",
+      "serveCount": 0,
+      "logs": [
+        {
+          "timestamp": "14:51:37",
+          "type": "system",
+          "message": "Scheduled match on Day 1: Ritik vs Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:44",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 1,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:45",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 2,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:45",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 3,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:45",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 4,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:46",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 5,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:51",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 6,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:52",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 7,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:53",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 8,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:54",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 9,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:55",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 10,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:55",
+          "type": "milestone",
+          "message": "🏆 Milestone achieved: Ritik is the first to reach 10 points (+1 Match Point)",
+          "scoreState": {
+            "score1": 10,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:52:57",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 10,
+            "score2": 1
+          }
+        },
+        {
+          "timestamp": "14:52:57",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 10,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:52:58",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 11,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:52:58",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 12,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:52:59",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 13,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:53:18",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 13,
+            "score2": 3
+          }
+        },
+        {
+          "timestamp": "14:53:18",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 13,
+            "score2": 4
+          }
+        },
+        {
+          "timestamp": "14:53:18",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 13,
+            "score2": 5
+          }
+        },
+        {
+          "timestamp": "14:53:18",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 13,
+            "score2": 6
+          }
+        },
+        {
+          "timestamp": "14:53:18",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 13,
+            "score2": 7
+          }
+        },
+        {
+          "timestamp": "14:53:19",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 13,
+            "score2": 8
+          }
+        },
+        {
+          "timestamp": "14:53:20",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 13,
+            "score2": 9
+          }
+        },
+        {
+          "timestamp": "14:53:21",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 13,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:53:23",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 14,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:53:23",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 15,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:53:23",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 16,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:53:24",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 17,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:53:24",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 18,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:53:25",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 19,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:53:26",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 20,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:53:27",
+          "type": "point_p1",
+          "message": "🏓 Point to Ritik",
+          "scoreState": {
+            "score1": 21,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:53:27",
+          "type": "win",
+          "message": "🎉 Match completed! Ritik wins the match (21 - 10)",
+          "scoreState": {
+            "score1": 21,
+            "score2": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "custom_match_1782977536221_fwz2y",
+      "player1Id": "player_1782377083081",
+      "player2Id": "player_1782382200233",
+      "player1Name": "Ravi",
+      "player2Name": "Vikash",
+      "status": "active",
+      "round": 1,
+      "type": "round-robin",
+      "score1": 0,
+      "score2": 0,
+      "firstTo10Id": null,
+      "winnerId": null,
+      "pointsAwarded1": 0,
+      "pointsAwarded2": 0,
+      "hasGraceRuleBeenUsed": false,
+      "p1GraceRuleUsed": false,
+      "p2GraceRuleUsed": false,
+      "timerSeconds": 0,
+      "server": "player1",
+      "serveCount": 0,
+      "logs": [
+        {
+          "timestamp": "13:02:16",
+          "type": "system",
+          "message": "Scheduled match on Day 1: Ravi vs Vikash",
+          "scoreState": {
+            "score1": 0,
+            "score2": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "custom_match_1782977542295_9601f",
+      "player1Id": "player_1782382196162",
+      "player2Id": "player_1782377074618",
+      "player1Name": "Anmol",
+      "player2Name": "Vansh",
+      "status": "completed",
+      "round": 1,
+      "type": "round-robin",
+      "score1": 21,
+      "score2": 19,
+      "firstTo10Id": "player_1782377074618",
+      "winnerId": "player_1782382196162",
+      "pointsAwarded1": 2,
+      "pointsAwarded2": 1,
+      "hasGraceRuleBeenUsed": false,
+      "p1GraceRuleUsed": false,
+      "p2GraceRuleUsed": false,
+      "timerSeconds": 157,
+      "server": "player1",
+      "serveCount": 0,
+      "logs": [
+        {
+          "timestamp": "14:22:48",
+          "type": "system",
+          "message": "Match scores and timer reset. Ready to play!",
+          "scoreState": {
+            "score1": 0,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:23:52",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 1,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:23:57",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 2,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:24:07",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 2,
+            "score2": 1
+          }
+        },
+        {
+          "timestamp": "14:24:29",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 3,
+            "score2": 1
+          }
+        },
+        {
+          "timestamp": "14:24:31",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 3,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:24:31",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 3,
+            "score2": 3
+          }
+        },
+        {
+          "timestamp": "14:24:43",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 3,
+            "score2": 4
+          }
+        },
+        {
+          "timestamp": "14:24:52",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 4,
+            "score2": 4
+          }
+        },
+        {
+          "timestamp": "14:25:00",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 4,
+            "score2": 5
+          }
+        },
+        {
+          "timestamp": "14:25:10",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 4,
+            "score2": 6
+          }
+        },
+        {
+          "timestamp": "14:25:19",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 4,
+            "score2": 7
+          }
+        },
+        {
+          "timestamp": "14:25:27",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 5,
+            "score2": 7
+          }
+        },
+        {
+          "timestamp": "14:25:36",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 5,
+            "score2": 8
+          }
+        },
+        {
+          "timestamp": "14:25:46",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 5,
+            "score2": 9
+          }
+        },
+        {
+          "timestamp": "14:25:55",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 5,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:25:55",
+          "type": "milestone",
+          "message": "🏆 Milestone achieved: Vansh is the first to reach 10 points (+1 Match Point)",
+          "scoreState": {
+            "score1": 5,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:26:05",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 6,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:26:15",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 7,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:26:22",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 7,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:26:29",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 8,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:26:35",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 9,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:26:42",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 10,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:26:49",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 10,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:27:11",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 11,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:27:11",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 12,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:27:16",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 13,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:27:22",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 14,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:27:29",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 15,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:27:36",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 15,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:27:44",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 16,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:27:57",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 16,
+            "score2": 14
+          }
+        },
+        {
+          "timestamp": "14:28:05",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 16,
+            "score2": 15
+          }
+        },
+        {
+          "timestamp": "14:28:13",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 17,
+            "score2": 15
+          }
+        },
+        {
+          "timestamp": "14:28:19",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 18,
+            "score2": 15
+          }
+        },
+        {
+          "timestamp": "14:28:23",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 19,
+            "score2": 15
+          }
+        },
+        {
+          "timestamp": "14:28:31",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 19,
+            "score2": 16
+          }
+        },
+        {
+          "timestamp": "14:28:38",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 19,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:28:46",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 19,
+            "score2": 18
+          }
+        },
+        {
+          "timestamp": "14:28:59",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 20,
+            "score2": 18
+          }
+        },
+        {
+          "timestamp": "14:29:10",
+          "type": "point_p2",
+          "message": "🏓 Point to Vansh",
+          "scoreState": {
+            "score1": 20,
+            "score2": 19
+          }
+        },
+        {
+          "timestamp": "14:29:16",
+          "type": "point_p1",
+          "message": "🏓 Point to Anmol",
+          "scoreState": {
+            "score1": 21,
+            "score2": 19
+          }
+        },
+        {
+          "timestamp": "14:29:16",
+          "type": "win",
+          "message": "🎉 Match completed! Anmol wins the match (21 - 19)",
+          "scoreState": {
+            "score1": 21,
+            "score2": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "custom_match_1782977549056_s8s7a",
+      "player1Id": "player_1782377078453",
+      "player2Id": "player_1782377096996",
+      "player1Name": "Ankit",
+      "player2Name": "Omar",
+      "status": "pending",
+      "round": 1,
+      "type": "round-robin",
+      "score1": 0,
+      "score2": 0,
+      "firstTo10Id": null,
+      "winnerId": null,
+      "pointsAwarded1": 0,
+      "pointsAwarded2": 0,
+      "hasGraceRuleBeenUsed": false,
+      "p1GraceRuleUsed": false,
+      "p2GraceRuleUsed": false,
+      "timerSeconds": 0,
+      "server": "player1",
+      "serveCount": 0,
+      "logs": [
+        {
+          "timestamp": "13:02:29",
+          "type": "system",
+          "message": "Scheduled match on Day 1: Ankit vs Omar",
+          "scoreState": {
+            "score1": 0,
+            "score2": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "custom_match_1782977558599_ppsgy",
+      "player1Id": "player_1782382204433",
+      "player2Id": "player_1782897629633",
+      "player1Name": "Vinyanand",
+      "player2Name": "Dheeraj",
+      "status": "completed",
+      "round": 1,
+      "type": "round-robin",
+      "score1": 7,
+      "score2": 21,
+      "firstTo10Id": "player_1782897629633",
+      "winnerId": "player_1782897629633",
+      "pointsAwarded1": 0,
+      "pointsAwarded2": 4,
+      "hasGraceRuleBeenUsed": false,
+      "p1GraceRuleUsed": false,
+      "p2GraceRuleUsed": false,
+      "timerSeconds": 168,
+      "server": "player1",
+      "serveCount": 0,
+      "logs": [
+        {
+          "timestamp": "13:02:38",
+          "type": "system",
+          "message": "Scheduled match on Day 1: Vinyanand vs Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 0
+          }
+        },
+        {
+          "timestamp": "14:16:26",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 1
+          }
+        },
+        {
+          "timestamp": "14:16:38",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 2
+          }
+        },
+        {
+          "timestamp": "14:16:50",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 3
+          }
+        },
+        {
+          "timestamp": "14:16:51",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 4
+          }
+        },
+        {
+          "timestamp": "14:16:56",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 5
+          }
+        },
+        {
+          "timestamp": "14:17:08",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 6
+          }
+        },
+        {
+          "timestamp": "14:17:24",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 7
+          }
+        },
+        {
+          "timestamp": "14:17:48",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 8
+          }
+        },
+        {
+          "timestamp": "14:17:48",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 9
+          }
+        },
+        {
+          "timestamp": "14:18:01",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:18:01",
+          "type": "milestone",
+          "message": "🏆 Milestone achieved: Dheeraj is the first to reach 10 points (+1 Match Point)",
+          "scoreState": {
+            "score1": 0,
+            "score2": 10
+          }
+        },
+        {
+          "timestamp": "14:18:32",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 11
+          }
+        },
+        {
+          "timestamp": "14:18:43",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 12
+          }
+        },
+        {
+          "timestamp": "14:18:47",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 0,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:18:58",
+          "type": "point_p1",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 1,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:18:59",
+          "type": "point_p1",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 2,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:19:00",
+          "type": "point_p1",
+          "message": "Subtracted point from Vinyanand",
+          "scoreState": {
+            "score1": 1,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:19:06",
+          "type": "point_p1",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 2,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:19:18",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 2,
+            "score2": 14
+          }
+        },
+        {
+          "timestamp": "14:19:52",
+          "type": "point_p2",
+          "message": "Subtracted point from Dheeraj",
+          "scoreState": {
+            "score1": 2,
+            "score2": 13
+          }
+        },
+        {
+          "timestamp": "14:20:01",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 2,
+            "score2": 14
+          }
+        },
+        {
+          "timestamp": "14:20:15",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 2,
+            "score2": 15
+          }
+        },
+        {
+          "timestamp": "14:20:25",
+          "type": "point_p1",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 3,
+            "score2": 15
+          }
+        },
+        {
+          "timestamp": "14:20:33",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 3,
+            "score2": 16
+          }
+        },
+        {
+          "timestamp": "14:20:47",
+          "type": "point_p1",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 4,
+            "score2": 16
+          }
+        },
+        {
+          "timestamp": "14:21:02",
+          "type": "point_p1",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 5,
+            "score2": 16
+          }
+        },
+        {
+          "timestamp": "14:21:11",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 5,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:21:21",
+          "type": "point_p1",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 6,
+            "score2": 17
+          }
+        },
+        {
+          "timestamp": "14:21:33",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 6,
+            "score2": 18
+          }
+        },
+        {
+          "timestamp": "14:21:34",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 6,
+            "score2": 19
+          }
+        },
+        {
+          "timestamp": "14:21:38",
+          "type": "point_p2",
+          "message": "Subtracted point from Dheeraj",
+          "scoreState": {
+            "score1": 6,
+            "score2": 18
+          }
+        },
+        {
+          "timestamp": "14:21:39",
+          "type": "point_p1",
+          "message": "🏓 Point to Vinyanand",
+          "scoreState": {
+            "score1": 7,
+            "score2": 18
+          }
+        },
+        {
+          "timestamp": "14:21:48",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 7,
+            "score2": 19
+          }
+        },
+        {
+          "timestamp": "14:21:55",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 7,
+            "score2": 20
+          }
+        },
+        {
+          "timestamp": "14:22:06",
+          "type": "point_p2",
+          "message": "🏓 Point to Dheeraj",
+          "scoreState": {
+            "score1": 7,
+            "score2": 21
+          }
+        },
+        {
+          "timestamp": "14:22:06",
+          "type": "win",
+          "message": "🎉 Match completed! Dheeraj wins the match (7 - 21)",
+          "scoreState": {
+            "score1": 7,
+            "score2": 21
+          }
+        }
+      ]
+    }
+  ],
+  "currentMatchId": "custom_match_1782977536221_fwz2y",
+  "round": 1,
+  "status": "active",
+  "config": {
+    "pointsToWin": 21,
+    "winByTwo": true,
+    "servesPerChange": 5,
+    "enableFourPointRule": true,
+    "enableGraceRule": true
+  }
+}
